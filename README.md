@@ -1,10 +1,9 @@
 # Online-Banking-Fraud-Detection-System
 1. Business Understanding
 Goal: Reduce fraudulent online banking transactions while minimizing false alarms.
-
 Business question: Which transactions or sessions are likely fraudulent?
 
-3. Data Understanding
+2. Data Understanding
 Data tables in SQL Server:
 
 Customers
